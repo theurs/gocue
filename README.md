@@ -16,9 +16,9 @@ A robust and compliant CUE sheet parser for Go (Golang), designed to handle both
 ## Installation
 
 ```sh
-go get github.com/your-username/gocue
+go get github.com/theurs/gocue
 ```
-*(Note: Replace `your-username` with your actual GitHub username or organization.)*
+
 
 ## Quick Start
 
@@ -32,7 +32,7 @@ import (
 	"log"
 	"strings"
 	
-	"gocue" // or "github.com/your-username/gocue"
+	"gocue" // or "github.com/theurs/gocue"
 )
 
 func main() {
